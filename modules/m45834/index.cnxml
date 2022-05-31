@@ -1,0 +1,22 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Pub-Test Ch. 1</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45834</md:content-id>
+  <md:title>Pub-Test Ch. 1</md:title>
+  <md:abstract>This is publication test content.</md:abstract>
+  <md:uuid>f57ba9bf-db7f-4dcc-af10-5da030155368</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1165895746009">This is the Section Name
+
+How to Use the Connexions Document Template
+Begin by clicking on the section title and entering your own.  Next, type the module text.  Use styles such as CNXML Term, CNXML Code, and CNXML Emphasis to style the body text of your document.
+</para>
+<media id="poolparty" alt="Web Dev is like a pool party.  Everybody has fun.">
+	   
+  <image mime-type="image/jpeg" src="../../media/poolparty.jpg"/>
+		 
+</media>
+</content>
+</document>

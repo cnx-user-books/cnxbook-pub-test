@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Pub-Test Ch. 3</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45840</md:content-id>
+  <md:title>Pub-Test Ch. 3</md:title>
+  <md:abstract/>
+  <md:uuid>4ec0e3f9-6401-4a86-930c-75d39e465dfc</md:uuid>
+</metadata>
+
+<content>
+  <para id="contentlinks"><title>INEW 2338 Advanced Java Part 3</title><newline/><link url="http://www.austincc.edu/rmartin6/coursecontent/inew2338/01-NetBeansPrimer.pdf" window="new">01 - NetBeans Primer</link><newline count="2"/>
+<link url="http://www.austincc.edu/rmartin6/coursecontent/inew2338/02-WebsiteSetup.pdf" window="new">02 - Website Setup</link><newline count="2"/>
+<link url="http://www.austincc.edu/rmartin6/coursecontent/inew2338/03-FirstServlet.pdf" window="new">03 - First Servlet</link><newline count="2"/>
+<link url="http://www.austincc.edu/rmartin6/coursecontent/inew2338/04-JSFTags.pdf" window="new">04 - JSF Tags</link><newline count="2"/>
+<link url="http://www.austincc.edu/rmartin6/coursecontent/inew2338/05-TemplateDemo.pdf" window="new">05 - Template Demo</link><newline count="2"/>
+<link url="http://www.austincc.edu/rmartin6/coursecontent/inew2338/06-ComponentSuite.pdf" window="new">06 - Component Suite</link><newline count="2"/>
+<link url="http://www.austincc.edu/rmartin6/coursecontent/inew2338/07-XAMPPSetup.pdf" window="new">07 - XAMPP Setup</link><newline count="2"/>
+<link url="http://www.austincc.edu/rmartin6/coursecontent/inew2338/08-DatabaseSetup.pdf" window="new">08 - Database Setup</link><newline count="2"/>
+<link url="http://www.austincc.edu/rmartin6/coursecontent/inew2338/09-JSFandJDBC.pdf" window="new">09 - JSF and JDBC</link><newline count="2"/>
+<link url="http://www.austincc.edu/rmartin6/coursecontent/inew2338/10-JSFMVCandSpringMVC.pdf" window="new">10 - JSF-MVC and Spring-MVC</link><newline count="2"/>
+</para></content>
+</document>
